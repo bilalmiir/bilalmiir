@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilalmiir&label=Profile%20views&color=0e75b6&style=flat" alt="bilalmiir" /> </p>
 
-- 🌱 I’m currently exploring **Generative AI**
+- 🌱 I’m currently working as an **Associate AI Engineer**
 
 - 📫 How to reach me **mirbilal@gmail.com**
 
